@@ -1,4 +1,4 @@
-<!-- Furzam Haris - GitHub Profile README -->
+<!-- Furzam Haris - Animated GitHub Profile README -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Furzam+Haris!;🚀+Data+Scientist+%7C+ML+Engineer+%7C+IoT+Enthusiast;Turning+raw+data+into+insights...;Building+scalable+AI+solutions...;Pushing+innovation+to+the+edge." alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
 🎓 I'm a passionate **Data Scientist** and **Machine Learning Engineer** blending AI, IoT, and edge computing into real-world solutions. I specialize in:
 - 🔍 Deep learning
@@ -61,16 +61,16 @@
 ## 🏆 Achievements
 
 - 🏅 **AI-Powered Traffic Management System**  
-  Real-time detection using YOLO + Detectron2 + SAM.
+  → Real-time vehicle detection using YOLO and Detectron2 to optimize traffic.
 
 - 🏅 **NLP-Based Sentiment Analysis**  
-  LLM + scikit-learn-based sentiment engine for social media.
+  → Social media sentiment analysis with LLMs & scikit-learn.
 
 - 🏅 **IoT Smart Home Automation**  
-  Raspberry Pi + ESP32 + ML at the edge for anomaly detection.
+  → Edge ML with Raspberry Pi, Arduino & ESP32 for anomaly detection.
 
-- 🏅 **Generative AI for Content Creation**  
-  LLaMA + GPT for creative, intelligent automation.
+- 🏅 **Generative AI Content Engine**  
+  → LLaMA + GPT to generate domain-specific, creative written content.
 
 ---
 
@@ -83,8 +83,8 @@
 
 ## 🌐 Let's Connect
 
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d394465cbc9c0a4d?mp_source=share)
-[![Gmail](https://img.shields.io/badge/-furzamharis@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:furzamharis@gmail.com)
+- 🌍 [Upwork](https://www.upwork.com/freelancers/~01d394465cbc9c0a4d?mp_source=share)
+- 📧 [furzamharis@gmail.com](mailto:furzamharis@gmail.com)
 
 ---
 
@@ -109,4 +109,4 @@
 
 ---
 
-<p align="center"><i>✨ Let’s collaborate and turn your next idea into something innovative and impactful. ✨</i></p>
+<p align="center"><i>✨ Let's collaborate and transform ideas into impactful solutions! ✨</i></p>
