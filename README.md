@@ -1,8 +1,8 @@
 <!-- Furzam Haris - Enhanced GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=50&lines=👋+Hi+there,+I'm+Furzam+Haris!;Data+Scientist+%7C+ML+Engineer+%7C+IoT+Enthusiast;Let's+transform+data+into+insights!">
-</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#F97316">Furzam Haris</span>!</h1>
+<h3 align="center">🚀 Data Scientist | ML Engineer | IoT Enthusiast</h3>
+<p align="center">Turning raw data into insights, building scalable AI solutions, and pushing innovation to the edge.</p>
 
 ---
 
@@ -95,9 +95,10 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-quote.vercel.app/api?theme=dark&quote=Strive%20not%20to%20be%20a%20success,%20but%20rather%20to%20be%20of%20value.&author=Albert%20Einstein" alt="Inspirational Quote" />
-</p>
+---
+
+> 🧠 *"Strive not to be a success, but rather to be of value."*  
+> — **Albert Einstein**
 
 ---
 
