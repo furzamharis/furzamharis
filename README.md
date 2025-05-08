@@ -1,12 +1,12 @@
-<!-- Furzam Haris - Enhanced GitHub Profile README -->
+<!-- Furzam Haris - GitHub Profile README -->
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#F97316">Furzam Haris</span>!</h1>
-<h3 align="center">🚀 Data Scientist | ML Engineer | IoT Enthusiast</h3>
-<p align="center">Turning raw data into insights, building scalable AI solutions, and pushing innovation to the edge.</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Furzam+Haris!;🚀+Data+Scientist+%7C+ML+Engineer+%7C+IoT+Enthusiast;Turning+raw+data+into+insights...;Building+scalable+AI+solutions...;Pushing+innovation+to+the+edge." alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
 🎓 I'm a passionate **Data Scientist** and **Machine Learning Engineer** blending AI, IoT, and edge computing into real-world solutions. I specialize in:
 - 🔍 Deep learning
@@ -60,24 +60,31 @@
 
 ## 🏆 Achievements
 
-- 🏅 **AI-Powered Traffic Management System**: Implemented real-time vehicle detection using YOLO and Detectron2 to optimize urban traffic flow.
-- 🏅 **NLP-Based Sentiment Analysis**: Developed models leveraging LLMs and scikit-learn to analyze social media sentiment for brand strategy.
-- 🏅 **IoT Smart Home Automation**: Created a predictive, anomaly-detecting smart home ecosystem using Raspberry Pi, Arduino, and ESP32.
-- 🏅 **Generative AI for Content Creation**: Utilized LLaMA and OpenAI GPT to generate domain-specific written content blending precision with creativity.
+- 🏅 **AI-Powered Traffic Management System**  
+  Real-time detection using YOLO + Detectron2 + SAM.
+
+- 🏅 **NLP-Based Sentiment Analysis**  
+  LLM + scikit-learn-based sentiment engine for social media.
+
+- 🏅 **IoT Smart Home Automation**  
+  Raspberry Pi + ESP32 + ML at the edge for anomaly detection.
+
+- 🏅 **Generative AI for Content Creation**  
+  LLaMA + GPT for creative, intelligent automation.
 
 ---
 
 ## 📚 Publications
 
-- 📄 **Deep Learning in Healthcare**: Research on improving diagnostic accuracy using CNNs.
-- 📄 **NLP for Customer Insights**: Techniques for extracting actionable intelligence from unstructured text data.
+- 📄 *CNNs for Diagnostic Accuracy in Healthcare*
+- 📄 *NLP for Customer Insights from Unstructured Data*
 
 ---
 
 ## 🌐 Let's Connect
 
-- 🌍 [Upwork](https://www.upwork.com/freelancers/~01d394465cbc9c0a4d?mp_source=share)
-- 📧 [furzamharis@gmail.com](mailto:furzamharis@gmail.com)
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d394465cbc9c0a4d?mp_source=share)
+[![Gmail](https://img.shields.io/badge/-furzamharis@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:furzamharis@gmail.com)
 
 ---
 
@@ -102,4 +109,4 @@
 
 ---
 
-<p align="center"><i>✨ Let's collaborate and transform ideas into impactful solutions! ✨</i></p>
+<p align="center"><i>✨ Let’s collaborate and turn your next idea into something innovative and impactful. ✨</i></p>
