@@ -1,9 +1,9 @@
-<!-- Furzam Haris - Colorful, Animated GitHub Profile -->
+<!-- Furzam Haris - Vibrant GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm <span style="color:#FF6F61;">Furzam Haris</span>! 👋✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20IoT%20Enthusiast;Always%20learning%20new%20things!&center=true&width=500&height=45&color=F97316&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20|%20ML%20Engineer%20|%20IoT%20Enthusiast;Always%20learning%20new%20things!&center=true&width=600&height=50&color=F97316&size=24" />
 </p>
 
 ---
