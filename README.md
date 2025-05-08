@@ -1,23 +1,12 @@
-<!-- Furzam Haris - Vibrant GitHub Profile README -->
+<!-- Furzam Haris - Enhanced GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm <span style="color:#FF6F61;">Furzam Haris</span>! 👋✨</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20|%20ML%20Engineer%20|%20IoT%20Enthusiast;Always%20learning%20new%20things!&center=true&width=600&height=50&color=F97316&size=24" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=50&lines=👋+Hi+there,+I'm+Furzam+Haris!;Data+Scientist+%7C+ML+Engineer+%7C+IoT+Enthusiast;Let's+transform+data+into+insights!">
+</h1>
 
 ---
 
-## 📊 **Live GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furzamharis&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furzamharis&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🧠 **About Me**
+## 🌟 About Me
 
 🎓 I'm a passionate **Data Scientist** and **Machine Learning Engineer** blending AI, IoT, and edge computing into real-world solutions. I specialize in:
 - 🔍 Deep learning
@@ -29,101 +18,87 @@
 
 ---
 
-## 🚀 **Core Expertise**
+## 🛠️ Skills & Tools
 
-🧠 **Machine Learning / Deep Learning**  
-💬 **LLMs & Generative AI** – LLaMA, GPTs, OLAMa  
-🔌 **IoT & Edge AI** – Raspberry Pi, Jetson Nano, ESP32  
-🎯 **Computer Vision** – YOLO, CLIP, SAM, Detectron  
-📖 **NLP** – Transformers, Sentiment Analysis, GPT-4  
-☁️ **Cloud/MLOps** – SageMaker, Azure, TFX, CI/CD  
-📊 **Data Viz** – Seaborn, Tableau, Power BI
-
----
-
-## 🛠️ **Tech Stack & Tools**
-
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=postgresql&logoColor=white)
-
-### 🔌 IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/-Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
-
-### 📊 Data Tools
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-
-### 🤖 ML Libraries
+### 🧠 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+
+### 🗣️ Natural Language Processing
+![Transformers](https://img.shields.io/badge/Transformers-0081CB?style=flat&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-9F9F9F?style=flat&logo=nltk&logoColor=white)
+
+### 🖼️ Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-FF1493?style=flat&logo=detectron2&logoColor=white)
+
+### 🌐 Web & Cloud
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### 🛠️ DevOps & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 🖼️ **Computer Vision Toolkit**
+## 📈 GitHub Stats
 
-💡 **YOLO** (All variants)  
-🧠 **CLIP / SAM / Detectron2**  
-👁️ **OpenCV** & **EfficientNet**  
-🖼️ **ImageAI**, **LabelImg**, **Mediapipe**
-
----
-
-## 🏆 **Projects That Speak**
-
-🔹 **AI-Powered Traffic Management**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Real-time detection using YOLO + Detectron + SAM
-
-🔹 **Sentiment Analyzer with LLMs**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ NLP + GPT + Scikit-learn to analyze brand perception
-
-🔹 **Smart Home IoT ML Platform**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ Predictive automation with Pi, Arduino, and ML at the edge
-
-🔹 **Creative Content Generator**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ LLaMA + GPT for elegant, domain-specific outputs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furzamharis&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furzamharis&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
 
 ---
 
-## 📰 **Publications**
+## 🏆 Achievements
 
-- 📘 *CNNs for Diagnostic Accuracy in Healthcare*
-- 🗣️ *NLP-Driven Customer Insight Extraction*
-
----
-
-## 🧰 **Favorite Tools**
-
-- 🧠 GPT-based Workflows
-- ⚙️ TensorFlow Extended (TFX)
-- ☁️ AWS SageMaker Pipelines
-- 🐍 Jupyter, Flask for rapid prototyping
+- 🏅 **AI-Powered Traffic Management System**: Implemented real-time vehicle detection using YOLO and Detectron2 to optimize urban traffic flow.
+- 🏅 **NLP-Based Sentiment Analysis**: Developed models leveraging LLMs and scikit-learn to analyze social media sentiment for brand strategy.
+- 🏅 **IoT Smart Home Automation**: Created a predictive, anomaly-detecting smart home ecosystem using Raspberry Pi, Arduino, and ESP32.
+- 🏅 **Generative AI for Content Creation**: Utilized LLaMA and OpenAI GPT to generate domain-specific written content blending precision with creativity.
 
 ---
 
-## 🌍 **Let's Connect!**
+## 📚 Publications
 
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d394465cbc9c0a4d?mp_source=share)
-[![Gmail](https://img.shields.io/badge/-furzamharis@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:furzamharis@gmail.com)
+- 📄 **Deep Learning in Healthcare**: Research on improving diagnostic accuracy using CNNs.
+- 📄 **NLP for Customer Insights**: Techniques for extracting actionable intelligence from unstructured text data.
 
 ---
 
-## 📂 **Popular Repositories**
+## 🌐 Let's Connect
 
-🔗 [Freelance-Projects-Food-Detection](https://github.com/furzamharis/Freelance-Projects-Food-Detection)  
-🔗 [Licence_plate](https://github.com/furzamharis/Licence_plate)  
-🔗 [Computer-Vision-Projects](https://github.com/furzamharis/Computer-Vision-Projects)  
-🔗 [DataAnalytics](https://github.com/furzamharis/DataAnalytics)  
-🔗 [camstream](https://github.com/furzamharis/camstream)
+- 🌍 [Upwork](https://www.upwork.com/freelancers/~01d394465cbc9c0a4d?mp_source=share)
+- 📧 [furzamharis@gmail.com](mailto:furzamharis@gmail.com)
+
+---
+
+## 📂 Popular Repositories
+
+- 🔗 [Freelance-Projects-Food-Detection](https://github.com/furzamharis/Freelance-Projects-Food-Detection)
+- 🔗 [Licence_plate](https://github.com/furzamharis/Licence_plate)
+- 🔗 [Computer-Vision-Projects](https://github.com/furzamharis/Computer-Vision-Projects)
+- 🔗 [DataAnalytics](https://github.com/furzamharis/DataAnalytics)
+- 🔗 [camstream](https://github.com/furzamharis/camstream)
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
-<p align="center"><i>✨ Thanks for stopping by. Let's build something impactful together! ✨</i></p>
+<p align="center">
+  <img src="https://github-readme-quote.vercel.app/api?theme=dark&quote=Strive%20not%20to%20be%20a%20success,%20but%20rather%20to%20be%20of%20value.&author=Albert%20Einstein" alt="Inspirational Quote" />
+</p>
+
+---
+
+<p align="center"><i>✨ Let's collaborate and transform ideas into impactful solutions! ✨</i></p>
